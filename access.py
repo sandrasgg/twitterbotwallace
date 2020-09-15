@@ -1,4 +1,4 @@
-# Credentials for your Twitter bot account
+# Credentials for the Twitter bot account
 import tweepy
 import os
 from os import environ
