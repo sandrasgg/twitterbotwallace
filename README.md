@@ -1,3 +1,3 @@
 # twitterbotwallace
 
-El bot en activo: https://twitter.com/InfinitaBroma
+El bot en acción: https://twitter.com/InfinitaBroma
