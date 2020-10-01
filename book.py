@@ -33,7 +33,7 @@ def extract_status(path=None):
 
         # If successfully read, search sentence:
         if text:
-            return search_sentence(text) + " #LaBromaInfinita"
+            return search_sentence(text)
     # Book not found:
     except:
         return "Book not found!"
